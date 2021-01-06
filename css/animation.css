@@ -1,0 +1,633 @@
+.empty-animation{
+    animation-name: zoomInStable; 
+    animation-duration: 3s; 
+    animation-iteration-count: 1;
+    animation-timing-function: linear;
+  
+  -webkit-animation-name: zoomInStable; 
+    -webkit-animation-duration: 3s; 
+    -webkit-animation-iteration-count: 1;
+    -webkit-animation-timing-function: linear;
+  
+  -moz-animation-name: zoomInStable; 
+    -moz-animation-duration: 3s; 
+    -moz-animation-iteration-count: 1;
+    -moz-animation-timing-function: linear;
+  
+  -ms-animation-name: zoomInStable; 
+    -ms-animation-duration: 3s; 
+    -ms-animation-iteration-count: 1;
+    -ms-animation-timing-function: linear;
+  
+  -o-animation-name: zoomInStable; 
+    -o-animation-duration: 3s; 
+    -o-animation-iteration-count: 1;
+    -o-animation-timing-function: linear;
+}
+
+.empty-animation{
+    animation-name: zoomInStable; 
+    animation-duration: 3s; 
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+  
+  -webkit-animation-name: zoomInStable; 
+    -webkit-animation-duration: 3s; 
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation-timing-function: linear;
+  
+  -moz-animation-name: zoomInStable; 
+    -moz-animation-duration: 3s; 
+    -moz-animation-iteration-count: infinite;
+    -moz-animation-timing-function: linear;
+  
+  -ms-animation-name: zoomInStable; 
+    -ms-animation-duration: 3s; 
+    -ms-animation-iteration-count: infinite;
+    -ms-animation-timing-function: linear;
+  
+  -o-animation-name: zoomInStable; 
+    -o-animation-duration: 3s; 
+    -o-animation-iteration-count: infinite;
+    -o-animation-timing-function: linear;
+}
+
+.empty-animation{
+    animation-name: slideInUp; 
+    animation-duration: 2s; 
+    animation-iteration-count: 1;
+    animation-timing-function: linear;
+  
+  -webkit-animation-name: slideInUp; 
+    -webkit-animation-duration: 2s; 
+    -webkit-animation-iteration-count: 1;
+    -webkit-animation-timing-function: linear;
+  
+  -moz-animation-name: slideInUp; 
+    -moz-animation-duration: 2s; 
+    -moz-animation-iteration-count: 1;
+    -moz-animation-timing-function: linear;
+  
+  -ms-animation-name: slideInUp; 
+    -ms-animation-duration: 2s; 
+    -ms-animation-iteration-count: 1;
+    -ms-animation-timing-function: linear;
+  
+}
+
+.banner-section-three .image-layer{
+    animation-name: slideInRight; 
+    animation-duration: 2s; 
+    animation-iteration-count: 1;
+    animation-timing-function: linear;
+  
+  -webkit-animation-name: slideInRight; 
+    -webkit-animation-duration: 2s; 
+    -webkit-animation-iteration-count: 1;
+    -webkit-animation-timing-function: linear;
+  
+  -moz-animation-name: slideInRight; 
+    -moz-animation-duration: 2s; 
+    -moz-animation-iteration-count: 1;
+    -moz-animation-timing-function: linear;
+  
+  -ms-animation-name: slideInRight; 
+    -ms-animation-duration: 2s; 
+    -ms-animation-iteration-count: 1;
+    -ms-animation-timing-function: linear;
+  
+}
+
+.banner-section .image-column .image{
+    animation-name: slideInLeft; 
+    animation-duration: 2s; 
+    animation-iteration-count: 1;
+    animation-timing-function: linear;
+  
+  -webkit-animation-name: slideInLeft; 
+    -webkit-animation-duration: 2s; 
+    -webkit-animation-iteration-count: 1;
+    -webkit-animation-timing-function: linear;
+  
+  -moz-animation-name: slideInLeft; 
+    -moz-animation-duration: 2s; 
+    -moz-animation-iteration-count: 1;
+    -moz-animation-timing-function: linear;
+  
+  -ms-animation-name: slideInLeft; 
+    -ms-animation-duration: 2s; 
+    -ms-animation-iteration-count: 1;
+    -ms-animation-timing-function: linear;
+  
+}
+
+.about-section .section-icons .icon-two{
+    animation-name: slideInUp; 
+    animation-duration: 2s; 
+    animation-iteration-count: 1;
+    animation-timing-function: linear;
+  
+  -webkit-animation-name: slideInUp; 
+    -webkit-animation-duration: 2s; 
+    -webkit-animation-iteration-count: 1;
+    -webkit-animation-timing-function: linear;
+  
+  -moz-animation-name: slideInUp; 
+    -moz-animation-duration: 2s;
+    -moz-animation-iteration-count: 1;
+    -moz-animation-timing-function: linear;
+  
+  -ms-animation-name: slideInUp; 
+    -ms-animation-duration: 2s; 
+    -ms-animation-iteration-count: 1;
+    -ms-animation-timing-function: linear;
+  
+}
+
+svg#freepik_stories-content:not(.animated) .animable {
+  opacity: 0;
+}
+svg#freepik_stories-content.animated #freepik--Floor--inject-36 {
+  animation: 1s 1 forwards cubic-bezier(0.36, -0.01, 0.5, 1.38) zoomOut;
+  animation-delay: 1000ms;
+}
+svg#freepik_stories-content.animated #freepik--Shadows--inject-36 {
+  animation: 1s 1 forwards cubic-bezier(0.36, -0.01, 0.5, 1.38) slideLeft;
+  animation-delay: 1000ms;
+}
+svg#freepik_stories-content.animated #freepik--Plant--inject-36 {
+  animation: 1s 1 forwards cubic-bezier(0.36, -0.01, 0.5, 1.38) fadeIn;
+  animation-delay: 1000ms;
+}
+svg#freepik_stories-content.animated #freepik--Boxes--inject-36 {
+  animation: 1s 1 forwards cubic-bezier(0.36, -0.01, 0.5, 1.38) fadeIn;
+  animation-delay: 1000ms;
+}
+svg#freepik_stories-content.animated #freepik--Window--inject-36 {
+  animation: 1s 1 forwards cubic-bezier(0.36, -0.01, 0.5, 1.38) zoomOut;
+  animation-delay: 1000ms;
+}
+svg#freepik_stories-content.animated #freepik--Sheets--inject-36 {
+  animation: 1s 1 forwards cubic-bezier(0.36, -0.01, 0.5, 1.38) fadeIn;
+  animation-delay: 1000ms;
+}
+svg#freepik_stories-content.animated #freepik--Video--inject-36 {
+  animation: 1s 1 forwards cubic-bezier(0.36, -0.01, 0.5, 1.38) zoomOut;
+  animation-delay: 1000ms;
+}
+svg#freepik_stories-content.animated #freepik--Photo--inject-36 {
+  animation: 1s 1 forwards cubic-bezier(0.36, -0.01, 0.5, 1.38) slideDown;
+  animation-delay: 1000ms;
+}
+svg#freepik_stories-content.animated #freepik--box--inject-36 {
+  animation: 1s 1 forwards cubic-bezier(0.36, -0.01, 0.5, 1.38) lightSpeedLeft;
+  animation-delay: 1000ms;
+}
+svg#freepik_stories-content.animated #freepik--character--inject-36 {
+  animation: 1s 1 forwards cubic-bezier(0.36, -0.01, 0.5, 1.38) zoomOut;
+  animation-delay: 1000ms;
+}
+svg#freepik_stories-content.animated #freepik--speech-bubble--inject-36 {
+  animation: 1s 1 forwards cubic-bezier(0.36, -0.01, 0.5, 1.38) zoomIn;
+  animation-delay: 1000ms;
+}
+@keyframes zoomOut {
+  0% {
+    opacity: 0;
+    transform: scale(1.5);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+@keyframes slideLeft {
+  0% {
+    opacity: 0;
+    transform: translateX(-30px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@keyframes slideDown {
+  0% {
+    opacity: 0;
+    transform: translateY(-30px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+@keyframes lightSpeedLeft {
+  from {
+    transform: translate3d(-50%, 0, 0) skewX(20deg);
+    opacity: 0;
+  }
+  60% {
+    transform: skewX(-10deg);
+    opacity: 1;
+  }
+  80% {
+    transform: skewX(2deg);
+  }
+  to {
+    opacity: 1;
+    transform: translate3d(0, 0, 0);
+  }
+}
+@keyframes zoomIn {
+  0% {
+    opacity: 0;
+    transform: scale(0.5);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+
+@-webkit-keyframes rotateme {
+    0% {
+        -webkit-transform: rotate(0deg);
+        opacity: 1;
+      }
+
+    50% {
+        -webkit-transform: rotate(180deg);
+        opacity: 0.7;
+      }
+    100% {
+        -webkit-transform: rotate(360deg);
+        opacity: 1;
+      }
+}
+@-moz-keyframes rotateme {
+    0% {
+        -moz-transform: rotate(0deg);
+        opacity: 1;
+      }
+
+    50% {
+        -moz-transform: rotate(180deg);
+        opacity: 0.7;
+      }
+    100% {
+        -moz-transform: rotate(360deg);
+        opacity: 1;
+      }
+}
+@-o-keyframes rotateme {
+    0% {
+        -o-transform: rotate(0deg);
+        opacity: 1;
+      }
+
+    50% {
+        -o-transform: rotate(180deg);
+        opacity: 0.7;
+      }
+    100% {
+        -o-transform: rotate(360deg);
+        opacity: 1;
+      }
+}
+
+@keyframes rotateme {
+    
+     0% {
+        transform: rotate(0deg);
+        opacity: 1;
+      }
+
+    50% {
+        transform: rotate(180deg);
+      }
+    100% {
+        transform: rotate(360deg);
+        opacity: 1;
+      }
+}
+
+.work-section .icon-one,
+.about-section .section-icons .icon-three,
+.about-section .section-icons .icon-one,
+.choose-section .section-icons .icon-one,
+.choose-section .section-icons .icon-two,
+.counter-section .plus-icon,
+.about-section .section-icons .icon-two,
+.page-title .section-icons .icon-five,
+.process-block.one .inner-box .icon-box:first-child:before,
+.process-block-two.two .inner-box .icon-box::before,
+.process-block.three .inner-box .icon-box:before,
+.process-block-two.four .inner-box .icon-box::before,
+.call-to-action-section-two .section-icons .icon-one,
+.call-to-action-section-two .section-icons .icon-two,
+.services-section-two .section-icons .icon-one,
+.services-section .section-icons .icon-four,
+.services-section .section-icons .icon-one{
+    animation-name: rotateme; 
+    animation-duration: 15s; 
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+	
+	-webkit-animation-name: rotateme; 
+    -webkit-animation-duration: 15s; 
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation-timing-function: linear;
+	
+	-moz-animation-name: rotateme; 
+    -moz-animation-duration: 15s; 
+    -moz-animation-iteration-count: infinite;
+    -moz-animation-timing-function: linear;
+	
+	-ms-animation-name: rotateme; 
+    -ms-animation-duration: 15s; 
+    -ms-animation-iteration-count: infinite;
+    -ms-animation-timing-function: linear;
+	
+	-o-animation-name: rotateme; 
+    -o-animation-duration: 15s; 
+    -o-animation-iteration-count: infinite;
+    -o-animation-timing-function: linear;
+}
+
+/* Bob Up Down*/
+@-webkit-keyframes float_up_down {
+  0% {
+    -webkit-transform: translateY(0px);
+    transform: translateY(0px);
+    opacity: 1;
+  }
+
+  50% {
+    -webkit-transform: translateY(30px);
+    transform: translateY(30px);
+    opacity: 1;
+  }
+
+  100% {
+    -webkit-transform: translateY(0px);
+    transform: translateY(0px);
+    opacity: 1;
+  }
+}
+
+@keyframes float_up_down {
+  0% {
+    transform: translateY(0px);
+    transform: translateY(0px);
+    opacity: 1;
+  }
+
+  50% {
+    transform: translateY(30px);
+    transform: translateY(30px);
+    opacity: 1;
+  }
+
+  100% {
+    transform: translateY(0px);
+    transform: translateY(0px);
+    opacity: 1;
+  }
+}
+
+.call-to-action-section-two .section-icons .icon-three,
+.services-section-two .section-icons .icon-two,
+.services-section .section-icons .icon-two{
+    animation-name: float_up_down; 
+    animation-duration: 5s; 
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    
+    -webkit-animation-name: float_up_down; 
+    -webkit-animation-duration: 5s; 
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation-timing-function: linear;
+    
+    -moz-animation-name: float_up_down; 
+    -moz-animation-duration: 5s; 
+    -moz-animation-iteration-count: infinite;
+    -moz-animation-timing-function: linear;
+    
+    -ms-animation-name: float_up_down; 
+    -ms-animation-duration: 5s; 
+    -ms-animation-iteration-count: infinite;
+    -ms-animation-timing-function: linear;
+    
+    -o-animation-name: float_left_right; 
+    -o-animation-duration: 5s; 
+    -o-animation-iteration-count: infinite;
+    -o-animation-timing-function: linear;
+}
+
+/* Bob */
+@-webkit-keyframes float_left_right {
+  0% {
+    -webkit-transform: translateX(-100px);
+    transform: translateX(-100px);
+    opacity: 1;
+  }
+
+  50% {
+    -webkit-transform: translateX(100px);
+    transform: translateX(100px);
+    opacity: 0.40;
+  }
+
+  100% {
+    -webkit-transform: translateX(-100px);
+    transform: translateX(-100px);
+    opacity: 1;
+  }
+}
+
+@keyframes float_left_right {
+  0% {
+    -webkit-transform: translateX(-100px);
+    transform: translateX(-100px);
+    opacity: 1;
+  }
+
+  50% {
+    -webkit-transform: translateX(100px);
+    transform: translateX(100px);
+    opacity: 0.40;
+  }
+
+  100% {
+    -webkit-transform: translateX(-100px);
+    transform: translateX(-100px);
+    opacity: 1;
+  }
+}
+
+.call-to-action-section-two .section-icons .icon-four,
+.services-section-two .section-icons .icon-three{
+    animation-name: float_left_right; 
+    animation-duration: 30s; 
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+  
+  -webkit-animation-name: float_left_right; 
+    -webkit-animation-duration: 30s; 
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation-timing-function: linear;
+  
+  -moz-animation-name: float_left_right; 
+    -moz-animation-duration: 30s; 
+    -moz-animation-iteration-count: infinite;
+    -moz-animation-timing-function: linear;
+  
+  -ms-animation-name: float_left_right; 
+    -ms-animation-duration: 30s; 
+    -ms-animation-iteration-count: infinite;
+    -ms-animation-timing-function: linear;
+  
+  -o-animation-name: float_left_right; 
+    -o-animation-duration: 30s; 
+    -o-animation-iteration-count: infinite;
+    -o-animation-timing-function: linear;
+}
+
+@-webkit-keyframes float_left_right_two {
+  0% {
+    -webkit-transform: translateX(-30px);
+    opacity: 1;
+  }
+
+  50% {
+    -webkit-transform: translateX(0px);
+    opacity: 0.80;
+  }
+
+  100% {
+    -webkit-transform: translateX(-30px);
+    opacity: 1;
+  }
+}
+
+@keyframes float_left_right_two {
+  0% {
+    transform: translateX(-30px);
+    opacity: 1;
+  }
+
+  50% {
+    transform: translateX(0px);
+    opacity: 0.80;
+  }
+
+  100% {
+    transform: translateX(-30px);
+    opacity: 1;
+  }
+  
+}
+
+.page-title .section-icons .icon-six,
+.page-title .section-icons .icon-two{
+    animation-name: float_left_right_two; 
+    animation-duration: 5s; 
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+  
+  -webkit-animation-name: float_left_right_two; 
+    -webkit-animation-duration: 5s; 
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation-timing-function: linear;
+  
+  -moz-animation-name: float_left_right_two; 
+    -moz-animation-duration: 5s; 
+    -moz-animation-iteration-count: infinite;
+    -moz-animation-timing-function: linear;
+  
+  -ms-animation-name: float_left_right_two; 
+    -ms-animation-duration: 5s; 
+    -ms-animation-iteration-count: infinite;
+    -ms-animation-timing-function: linear;
+  
+  -o-animation-name: float_left_right_two; 
+    -o-animation-duration: 5s; 
+    -o-animation-iteration-count: infinite;
+    -o-animation-timing-function: linear;
+}
+
+
+@-webkit-keyframes zoom-fade {
+  0% {
+    -webkit-transform: scale(0.8);
+    transform: scale(0.8);
+  }
+
+  50% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+  }
+
+  100% {
+    -webkit-transform: scale(0.8);
+    transform: scale(0.8);
+  }
+}
+
+@keyframes zoom-fade {
+  0% {
+    -webkit-transform: scale(0.8);
+    transform: scale(0.8);
+  }
+
+  50% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+  }
+
+  100% {
+    -webkit-transform: scale(0.8);
+    transform: scale(0.8);
+  }
+}
+
+.work-section .icon-two,
+.work-section .icon-three,
+.news-section .image-layer,
+.page-title .section-icons .icon-one,
+.page-title .section-icons .icon-four,
+.services-section .section-icons .icon-three{
+    animation-name: zoom-fade; 
+    animation-duration: 3s; 
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+	
+	-webkit-animation-name: zoom-fade; 
+    -webkit-animation-duration: 3s; 
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation-timing-function: linear;
+	
+	-moz-animation-name: zoom-fade; 
+    -moz-animation-duration: 3s; 
+    -moz-animation-iteration-count: infinite;
+    -moz-animation-timing-function: linear;
+	
+	-ms-animation-name: zoom-fade; 
+    -ms-animation-duration: 3s; 
+    -ms-animation-iteration-count: infinite;
+    -ms-animation-timing-function: linear;
+	
+	-o-animation-name: zoom-fade; 
+    -o-animation-duration: 3s; 
+    -o-animation-iteration-count: infinite;
+    -o-animation-timing-function: linear;
+}
