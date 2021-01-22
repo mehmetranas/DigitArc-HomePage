@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="397px" height="127px" viewBox="0 0 397 127" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <desc>Created with Lunacy</desc>
+  <defs>
+    <rect width="397" height="127" id="artboard_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#artboard_1" clip-rule="evenodd" />
+    </clipPath>
+  </defs>
+  <g id="Logo/blau" clip-path="url(#clip_1)">
+    <use xlink:href="#artboard_1" stroke="none" fill="none" />
+    <path d="M0 76L30.865 0L50.337 0L81.202 76L63.505 76L54.585 57.825L26.617 57.825L17.697 76L0 76ZM51.685 44.969L40.601 18.444L29.518 44.969L51.685 44.969Z" transform="translate(-0.0004 51.0004)" id="Fill-1" fill="#005294" fill-rule="evenodd" stroke="none" />
+    <path d="M0 0L40.429 0C57.178 0 70.755 13.577 70.755 30.326L70.755 45.674C70.755 62.422 57.178 76 40.429 76L0 76L0 0ZM35.184 62.565C44.825 62.565 52.641 54.749 52.641 45.108L52.641 30.892C52.641 21.251 44.825 13.435 35.184 13.435L16.372 13.435L16.372 62.565L35.184 62.565Z" transform="translate(89.9864 51.0001)" id="Fill-2" fill="#005294" fill-rule="evenodd" stroke="none" />
+    <path d="M64.929 0L41.182 56.834L17.434 0L0 0L32.019 76L50.344 76L82.364 0L64.929 0Z" transform="translate(160.7419 51.0002)" id="Fill-5" fill="#005294" stroke="none" />
+    <path d="M0 76L16.556 76L16.556 0L0 0L0 76Z" transform="translate(250.581 51)" id="Fill-8" fill="#005294" stroke="none" />
+    <path d="M26.792 13.542L67.442 13.542L67.442 0L20.354 0C9.112 0 0 9.112 0 20.354L0 21.962C0 34.559 10.212 44.771 22.809 44.771L45.226 44.771C50.093 44.771 54.038 48.716 54.038 53.583C54.038 58.45 50.093 62.396 45.226 62.396L3.625 62.396L3.625 76L51.009 76C62.25 76 71.363 66.887 71.363 55.645L71.363 49.713C71.363 39.47 63.06 31.167 52.816 31.167L26.49 31.167C21.43 31.167 17.365 26.9 17.697 21.768C18 17.084 22.099 13.542 26.792 13.542" transform="translate(278.3516 51.0007)" id="Fill-10" fill="#005294" stroke="none" />
+    <path d="M67.26 67.26L67.26 0L0 0L67.26 67.26Z" transform="translate(329.74 0)" id="Fill-11" fill="#A0A0A0" stroke="none" />
+  </g>
+</svg>
