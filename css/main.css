@@ -91,7 +91,7 @@ body {
 a {
   text-decoration: none;
   cursor: pointer;
-  color: #0500b5;
+  color: #014179;
 }
 
 button,
@@ -1026,6 +1026,7 @@ img {
 .main-header .header-upper {
   position: relative;
   z-index: 1;
+  background-color: #fff;
 }
 
 .main-header .header-upper .outer-box {
@@ -1167,7 +1168,7 @@ img {
 .main-header .nav-outer {
   position: static;
   float: right;
-  padding-top: 30px;
+  /* padding-top: 30px; */
   transition: all 500ms ease;
   -moz-transition: all 500ms ease;
   -webkit-transition: all 500ms ease;
@@ -1263,7 +1264,6 @@ img {
 .main-menu .navigation > li > a {
   position: relative;
   display: block;
-  color: #ffffff;
   text-align: center;
   line-height: 30px;
   text-transform: capitalize;
@@ -1632,7 +1632,8 @@ img {
   -webkit-transition: all 500ms ease;
   -ms-transition: all 500ms ease;
   -o-transition: all 500ms ease;
-  background-color: #000000;
+  background-color: #fff;
+  padding: 1em 0;
 }
 
 .main-header.fixed-header .header-upper .logo-box {
@@ -7908,7 +7909,8 @@ img {
 }
 
 .hidden-bar .logo {
-  padding: 40px 30px;
+  padding: 1.2em 30px;
+  background-color: #fff;
 }
 
 .hidden-bar .logo img {

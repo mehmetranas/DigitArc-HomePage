@@ -6,6 +6,7 @@
     <!-- Stylesheets -->
     <link href="css/bootstrap.css" rel="stylesheet" />
     <link href="css/main.css" rel="stylesheet" />
+    <link href="css/app.css" rel="stylesheet" />
     <link href="css/responsive.css" rel="stylesheet" />
 
     <link rel="shortcut icon" href="images/favicon.png" type="image/x-icon" />
@@ -111,17 +112,18 @@
 
   <body>
     <!-- Main Header / Header Style Two-->
-    <header class="main-header header-style-two">
+    <header class="main-header header-style-two fixed-header shadow-sm">
       <!--Header-Upper-->
       <div class="header-upper">
         <div class="auto-container">
-          <div class="clearfix">
-            <div class="pull-left logo-box">
-              <div class="logo">
-                <a href="index.html"
-                  ><img src="images/digitarc-logo-gri.png" alt="" title=""
-                /></a>
-              </div>
+          <div class="header-container">
+            <div class="logo">
+              <a href="index.html"
+                ><img
+                  src="images/digitarc-logo-bg-transparent.png"
+                  alt=""
+                  title=""
+              /></a>
             </div>
 
             <div class="nav-outer clearfix">
@@ -165,7 +167,7 @@
                 </div>
               </nav>
 
-              <div class="outer-box">
+              <div class="outer-box d-none">
                 <!--Nav Toggler-->
                 <div class="sidebar-btn hidden-bar-opener">
                   <div class="nav-btn">
@@ -197,6 +199,7 @@
         </form>
       </div>
     </header>
+    <!--End Main Header -->
     <section class="hidden-bar right-align">
       <div class="hidden-bar-closer">
         <button><span class="flaticon-cancel"></span></button>
